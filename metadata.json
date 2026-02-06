@@ -1,0 +1,8 @@
+{
+  "name": "Guyka Browser",
+  "description": "A next-generation browser featuring the custom guyka:// protocol, integrated site registry, and Google Cloud-based web hosting simulation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

@@ -1,0 +1,14 @@
+
+{
+  "manifest_version": 3,
+  "name": "Guyka Browser Extension",
+  "version": "1.0.4",
+  "description": "Next-generation protocol explorer and New Tab override.",
+  "permissions": ["storage", "tabs"],
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "action": {
+    "default_popup": "index.html"
+  }
+}
